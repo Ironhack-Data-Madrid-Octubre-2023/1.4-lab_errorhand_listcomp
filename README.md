@@ -57,4 +57,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## Additional Challenges for the Nerds
 
-If you are way ahead of your classmates and willing to accept some tough challenges about Error Handling and List Comprehensions, you will find three bonus questions in `main.py`.
+If you are way ahead of your classmates and willing to accept some tough challenges about Error Handling and List Comprehensions, you will find three bonus questions in `main.py`
