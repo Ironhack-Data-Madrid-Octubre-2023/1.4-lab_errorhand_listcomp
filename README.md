@@ -4,6 +4,8 @@
 
 ## Introduction
 
+:O
+
 When doing data science, you might find yourself wanting to read lists of lists, filtering column names, removing vowels from a list or flattening a matrix. You can easily use a lambda function or a for loop; There are multiple ways to go about this. One other way to do this is by using **list comprehensions**.
 
 As you have learned in today's learning, list comprehensions are a tool for transforming one list (any iterable actually) into another list. During this transformation, elements can be conditionally included in the new list and each element can be transformed as needed.
